@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mallikarjuna.V
 - 👀 I’m interested in 
-- 🌱 I’m currently working as a Linux Administrator 
+- 🌱 I’m currently working as a Technical support engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out at vmallikarjuna6281@gmail.com
 
