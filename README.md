@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mallikarjuna.V
-- 👀 I’m interested in 
+- 👀 I’m interested in Devops
 - 🌱 I’m currently working as a Technical support engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out at vmallikarjuna6281@gmail.com
