@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Mallikarjuna.V
-- 👀 I’m interested in Devops
-- 🌱 I’m currently working as a Technical support engineer 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me out at vmallikarjuna6281@gmail.com
+### `mallikarjunav@github:~$ ./contributions.sh` ./contrib-heatmap.svg
+### `mallikarjunav@github:~$ whoami`
+./mallikarjuna-ascii.svg	./info-card.svg
 
-<!---
-MallikarjunaVankadara/MallikarjunaVankadara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### `mallikarjunav@github:~$ cat product-mindset.txt` `Customer Problems → Product Thinking → Scalable Solutions`
+### `mallikarjunav@github:~$ echo $CURRENT_FOCUS` `Service Engineering | Product Thinking | Enterprise AI | Azure`
