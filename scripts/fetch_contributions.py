@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = "mallikarjunav"
+USERNAME = "MallikarjunaVankadara"
 URL = f"https://github.com/users/{USERNAME}/contributions"
 OUTPUT = Path("data/contributions.json")
 
