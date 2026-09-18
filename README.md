@@ -1,38 +1,23 @@
-<div align="center">
-
-### `mallikarjunav@github:~$ ./contributions.sh`
+### `MallikarjunaVankadara@github:~$ ./contributions.sh`
 
 ./contrib-heatmap.svg
 
 <br>
 
-### `mallikarjunav@github:~$ whoami`
+### `MallikarjunaVankadara@github:~$ whoami`
 
-<table>
-<tr>
-<td valign="top">
-
-./mallikarjuna-ascii.svg
-
-</td>
-<td valign="top">
-
-./info-card.svg
-
-</td>
-</tr>
-</table>
+| ASCII Portrait | Profile |
+|:---:|:---:|
+| ./mallikarjuna-ascii.svg | ./info-card.svg |
 
 <br>
 
-### `mallikarjunav@github:~$ cat product-mindset.txt`
+### `MallikarjunaVankadara@github:~$ cat product-mindset.txt`
 
 **Customer Problems → Product Thinking → Scalable Solutions**
 
 <br>
 
-### `mallikarjunav@github:~$ echo $CURRENT_FOCUS`
+### `MallikarjunaVankadara@github:~$ echo $CURRENT_FOCUS`
 
 `Service Engineering` · `Product Thinking` · `Enterprise AI` · `Azure`
-
-</div>
